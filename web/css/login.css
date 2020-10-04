@@ -1,0 +1,41 @@
+            body{
+				background-image:url(../img/5.png) ;
+			}
+			.content_login{
+				width: 450px;
+				height: 400px;
+				margin-top: 300px;
+				margin-left: 550px;
+				
+			}
+			input[type=text]{
+						background-color: lightblue;
+						height: 30px;
+						width: 200px;
+			}
+			input[type=password]{
+						background-color: lightblue;
+						height: 30px;
+						width: 200px;
+			}
+			input[type=submit] {
+									  width: 25%;
+									  background-color: #4CAF50;
+									  color: white;
+									  padding: 14px 20px;
+									  margin: 8px 0;
+									  border: none;
+									  border-radius: 4px;
+									  cursor: pointer;
+}
+     a{
+		 width: 90%;
+		 height: 100%;
+		 background-color: #4CAF50;
+		 color: white;
+		 padding: 12px 16px;
+		 margin: 8px 0;
+		 border: none;
+		 border-radius: 4px;
+		 cursor: pointer;
+	 }

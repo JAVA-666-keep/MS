@@ -1,0 +1,45 @@
+           .top{
+				height: 50px;
+				background-color: #000000;
+			}
+			.bottom{
+				height: 200px;
+			}
+			.main{
+				
+				height: 400px;
+				
+			}
+			.main_left{
+				height: 400px;
+				width: 50%;
+				background-repeat: repeat-x;
+				float:left;
+				/* background-image: url(img/1.png); */
+				background-position: center;
+				margin-top: 100px;
+			}
+			.main_right{
+				height: 400px;
+				width: 50%;
+				float:right;
+				
+			}
+			.div1{
+				margin-top: 200px;
+			}
+			
+
+            input[type=text]:focus {
+			background-color: lightblue;
+}
+input[type=submit] {
+				  width: 33%;
+				  background-color: #4CAF50;
+				  color: white;
+				  padding: 12px 20px;
+				  margin-right: 70px;
+				  border: none;
+				  border-radius: 4px;
+				  cursor: pointer;
+}
